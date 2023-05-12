@@ -1,0 +1,134 @@
+[
+    {
+        "name": "El padrino",
+        "sinopsis": "En el verano de 1945, se celebra la boda de Connie (Talia Shire) y Carlo Rizzi (Gianni Russo). Connie es la única hija de Don Vito Corleone (Marlon Brando), jefe de una de las familias que ejercen el mando de la Cosa Nostra en la ciudad de Nueva York. Don Vito además tiene otros tres hijos: su primogénito Sonny (James Caan), el endeble Fredo (John Cazale) y el más joven se todos, Michael (Al Pacino), un marine condecorado por su lucha en la Segunda Guerra Mundial que acaba de regresar a su hogar en Nueva York. Por designios de la fortuna, Michael terminará llevando la vida que no deseaba, tomando las riendas del negocio familiar, cambiando su moral y sus valores, para defender a toda costa a su familia.",
+        "genres": ["Crimen", "Drama"],
+        "year": "1972",
+        "duration": "2h 55min",
+        "director": "Francis Ford Coppola",
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "image": "./padrino.png",
+        "url": "https://www.youtube.com/embed/v72XprPxy3E"
+    },
+    {
+        "name": "La lista de Schindler",
+        "sinopsis": "Septiembre de 1939. Los nazis invaden Polonia. Los judíos son internados en guetos y enviados a campos de concentración. El empresario alemán Oskar Schindler (Liam Neeson), un dandy oportunista con talento para las relaciones públicas, aprovecha esta situación para prosperar económicamente. Comienza así una interesada relación con los militares nazis más poderosos para poner en marcha una fábrica en Cracovia, cuya mano de obra serán operarios judíos procedentes de los campos de concentración.\n\nLa mano derecha de Schindler en la sombra será Itzhak Stern (Ben Kingsley), un judío que se hará realmente cargo del negocio. Su objetivo será elaborar una lista de trabajadores judíos que estarán únicamente bajo su protección. Sin embargo, y a pesar de tardar tiempo en comprender la barbarie nazi, Schindler acaba por implicarse totalmente contra el holocausto. Lo que empezó como un negocio muy lucrativo, acaba convirtiéndose en la obsesión de Schindler que, comprometiendo su dinero y su futuro, tratará de liberar a cuantas más personas de la garras del psicópata Amon Goeth (Ralph Fiennes), oficial al mando de uno de los campos.",
+        "genres": ["Histórico", "Guerra"],
+        "year": "1994",
+        "duration": "3h 15min",
+        "director": "Steven Spielberg",
+        "cast": ["Liam Neeson", "Ben Kingsley", " Ralph Fiennes"],
+        "image": "./lista_schindler.png",
+        "url": "https://www.youtube.com/embed/BmkchuRJ82w"
+    },
+    {
+        "name": "Cadena perpetua",
+        "sinopsis": "En 1947, Andy Dufresne (Tim Robbins), un joven banquero, es condenado a cadena perpetua por asesinar a su esposa y su amante. A pesar de declararse inocente, es encarcelado en Shawshank, el penitenciario más duro del estado de Maine. Allí se encontrará con Red Redding (Morgan Freeman), un hombre desilusionado, encarcelado desde hace más de veinte años. Es cuando empieza una gran historia de amistad entre los dos hombres, sin un pasado, un presente y un futuro. Andy Dufresne no tendrá más remedio que ir haciéndose a la idea de su terrible situación, donde, por lo menos, su compañero Redding le será de gran ayuda.",
+        "genres": ["Drama"],
+        "year": "1995",
+        "duration": "2h 22min",
+        "director": "Frank Darabont",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "image": "./cadena_perpetua.png",
+        "url": "https://www.youtube.com/embed/4u87tmlj4oE"
+    },
+    {
+        "name": "Forrest Gump",
+        "sinopsis": "Al tener el coeficiente intelectual de un niño, Forrest Gump siempre ha sido considerado el “tonto” de clase. Bajo las faldas de su madre se siente protegido y junto a su amiga Jenny es feliz, aunque en su propio mundo. Un problema en su columna vertebral no le impide convertirse en un ágil corredor. Ya más mayor, Forrest luchará en la guerra de Vietnam y conocerá al mismísimo presidente de los Estados Unidos. Llegará a ser muy rico, pero para Forrest hay algo que no cambia: el amor de su vida es y será Jenny.",
+        "genres": ["Romántico", "Drama", "Comedia"],
+        "year": "1994",
+        "duration": "2h 20min",
+        "director": "Robert Zemeckis",
+        "cast": ["Tom Hanks", "Gary Sinse", "Robin Wright"],
+        "image": "./forrest_gump.png",
+        "url": "https://www.youtube.com/embed/bLvqoHBptjg"
+    },
+    {
+        "name": "La vida es bella",
+        "sinopsis": "La Segunda Guerra Mundial está a punto de estallar en Europa. Mientras tanto, Guido llega a un pueblo italiano con la intención de abrir una librería. Allí se enamora de la novia de un fascista italiano, Dora. Ésta sucumbirá a sus encantos y Guido consigue que se case con él.\n\nDe la bonita unión nace un pequeño que tendrá que vivir en primera persona los horrores de la guerra. La familia será recluida en un campo de concentración. Guido hará todo lo que esté en sus manos para hacer creer a su hijo que la vida es bella y que todo lo que están viviendo no es más que un juego…",
+        "genres": ["Comedia dramática"],
+        "year": "1999",
+        "duration": "1h 57min",
+        "director": "Roberto Benigni",
+        "cast": ["Roberto Benigni", "Horst Buchholz", "Marisa Paredes"],
+        "image": "./vida_bella.png",
+        "url": "https://www.youtube.com/embed/e-Z062tRdbQ"
+    },
+    {
+        "name": "El Rey León",
+        "sinopsis": "El pequeño león Simba tendrá que aprender el valor de la amistad, de las cosas buenas de la vida y también de la crueldad que encierra la naturaleza y la vileza de algunos seres. Tras la muerte de su padre, encontrará por el camino una serie de compañeros de viaje que le enseñarán el verdadero significado de todas estas cosas.",
+        "genres": ["Animación", "Aventura", "Musical"],
+        "year": "1994",
+        "duration": "1h 29min",
+        "director": "Roger Allers, Rob Minkoff",
+        "cast": ["Matthew Broderick", "Jonathan Taylor", "James Earl Jones"],
+        "image": "./rey_leon.png",
+        "url": "https://www.youtube.com/embed/bjJvvrKl83M"
+    },
+    {
+        "name": "Gladiator (El gladiador)",
+        "sinopsis": "En el año 180 el Imperio Romano controla todo el mundo conocido hasta la fecha. Máximo, interpretado por el ya conocido Russell Crowe, es un General romano muy importante para el Emperador Marco Aurelio, pues sólo él ha conseguido victoria tras victoria, destacando por su valentía, dedicación y lealtad al Imperio. Cómodo, el hijo de Marco Aurelio, está celoso del prestigio de Máximo y del amor que le profesa su padre, así que cuando asume el poder de manera inesperada, ordena el arresto y la ejecución del general. Máximo consigue escapar de sus opresores, pero no puede impedir que asesinen a su familia. Posteriormente, es capturado por un mercader de esclavos y se convierte en gladiador, preparándose para su venganza.",
+        "genres": ["Acción", "Aventura"],
+        "year": "2000",
+        "duration": "2h 35min",
+        "director": "Ridley Scott",
+        "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "image": "./gladiator.png",
+        "url": "https://www.youtube.com/embed/P5ieIbInFpg"
+    },
+    {
+        "name": "Uno de los nuestros",
+        "sinopsis": "Uno de los nuestros es una película basada en el libro de Nicholas Pileggi llamado \"Wiseguy\". Henry Hill, es un aspirante a mafioso que intenta abrirse camino junto a sus amigos, Jimmy Conway y Tommy De Vito, en la difícil jerarquía de la mafia. Para ello deben dar varios golpes, introduciéndose en negocios cada vez más peligrosos. Finalmente Henry termina en el programa de protección de testigos del FBI después de testificar en contra de sus antiguos socios.",
+        "genres": ["Suspense", "Drama"],
+        "year": "1990",
+        "duration": "2h 25min",
+        "director": "Martin Scorsese",
+        "cast": ["Ray Liotta", "Robert De Niro", "Joe Pesci"],
+        "image": "./uno_nuestros.png",
+        "url": "https://www.youtube.com/embed/Shj-QWYDn_M"
+    },
+    {
+        "name": "El caballero oscuro",
+        "sinopsis": "Después de derrotar a la Orden de las Sombras y frustrar al jefe de la mafia Carmine Falcone en 'Batman Begins', Bruce Wayne vuelve a enfundarse el traje del hombre murciélago para combatir el crimen en Gotham.\n\nCon Falcone fuera, el mafioso Salvatore Maroni se ha hecho con el control en la ciudad y parece que la lucha de Batman frente a los criminales será interminable. Por suerte, la ciudad cuenta ahora con Harvey Dent, un nuevo Fiscal del Distrito caracterizado por su mano dura contra el crimen, lo que da un aire de esperanza a Gotham y permite que Bruce se centre en Rachel Dawes, el amor de su vida y la única que conoce su verdadera identidad.\n\nSin embargo, la llegada de un nuevo villano a la ciudad destruirá todos los planes de Batman. Se trata de El Joker, un psicópata retorcido y sádico, con una morbosa fascinación por todo lo que rodea al murciélago. Pronto comenzará a sembrar el pánico y a causar estragos en Gotham, convirtiéndose en el peor enemigo posible para El caballero oscuro.",
+        "genres": ["Acción", "Suspense"],
+        "year": "2008",
+        "duration": "2h 32min",
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "image": "https://www.youtube.com/embed/Qs-NylETt1E",
+        "url": "a.com"
+    },
+    {
+        "name": "Pulp Fiction",
+        "sinopsis": "Jules Winnfield (Samuel L. Jackson, Jackie Brown) y Vincent Vega (John Travolta, Grease) son dos asesinos a sueldo que trabajan a las órdenes del temido gángster Marsellus Wallace (Ving Rhames, Amanecer de los muertos), quien les encarga la importante misión de recuperar su misterioso maletín, que ha sido robado. Ahí empezarán todos sus problemas.\n\nLos dos criminales son polos opuestos que deberán trabajar juntos para cumplir su cometido. De forma paralela, Vincent tendrá que hacerse cargo de Mia Wallace (Uma Thurman, Kill Bill), la peculiar novia de su jefe, a petición del mismo, mientras él pasa unos días fuera de la ciudad. Su compañero Jules le recomienda que vaya con cautela, pues la atractiva mujer le puede meter en problemas. Mientras, el boxeador Butch Coolidge (Bruce Willis, El sexto sentido) debe perder una importante pelea, pues ha sido sobornado por Wallace para participar en este combate amañado, y la pareja formada por Pumpkin/Ringo (Tim Roth, Reservoir Dogs) y Honey Bunny/Yolanda (Amanda Plummer, Mi vida sin mí) decidirá atracar un establecimiento debido a su lamentable situación laboral.",
+        "genres": ["Crimen", "Suspense"],
+        "year": "1995",
+        "duration": "2h 29min",
+        "director": "Quentin Tarantino",
+        "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+        "image": "./pulp_fiction.png",
+        "url": "https://www.youtube.com/embed/auCgsj0MV-M"
+    },
+    {
+        "name": "El Señor de los Anillos: La Comunidad del Anillo",
+        "sinopsis": "La trilogía del Señor de los Anillos se estrenó en 2001 con La Comunidad del Anillo, le siguió Las dos torres en 2002 y acabó con El retorno del Rey en 2003.\n\nEn este episodio de la trilogía, el joven y tímido hobbit, Frodo Bolsón, hereda un anillo. Lejos de ser una simple baratija, se trata del Anillo único, un instrumento de poder que permitiría a Sauron, el Señor Oscuro, reinar en la Tierra Media y convertir en esclavos a sus habitantes. Frodo, con la ayuda de una Compañía formada por hobbits, hombres, un mago, un enano y un elfo, tiene la misión de llevar el Anillo viajando por toda la Tierra Media hasta el Monte del Destino, lugar donde fue forjado, y destruirlo para siempre. Un tal periplo supone aventurarse muy lejos en Mordor, la tierra del Señor Oscuro, donde se concentra su ejército de orcos maléficos... La Compañía, no solo debe combatir las fuerzas externas del mal, sino también las fuerzas internas y la influencia corruptora que ejerce el propio anillo. El final de la historia está íntimamente ligado a la suerte de la Compañía.",
+        "genres": ["Fantasía", "Aventura"],
+        "year": "2001",
+        "duration": "2h 55min",
+        "director": "Peter Jackson",
+        "cast": ["Elijah Wood", "Sean Astin", "Ian McKellen"],
+        "image": "./senor_anillos.png",
+        "url": "https://www.youtube.com/embed/GuW21RLMndc"
+    },
+    {
+        "name": "Vengadores: Infinity War",
+        "sinopsis": "Un nuevo peligro acecha procedente de las sombras del cosmos. Thanos, el infame tirano intergaláctico, tiene como objetivo reunir las seis Gemas del Infinito, artefactos de poder inimaginable, y usarlas para imponer su perversa voluntad a toda la existencia. Los Vengadores y sus aliados tendrán que luchar contra el mayor villano al que se han enfrentado nunca, y evitar que se haga con el control de la galaxia. En su nueva e impactante aventura, el destino de la Tierra nunca había sido más incierto, las Gemas del Infinito estarán en juego, unos querrán protegerlas y otros controlarlas, ¿quién ganará?",
+        "genres": ["Aventura", "Acción", "Fantasía"],
+        "year": "2018",
+        "duration": "2h 36min",
+        "director": "Joe Russo, Anthony Russo",
+        "cast": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+        "image": "./vengadores.png",
+        "url": "https://www.youtube.com/embed/wJbudwIF0cE"
+    }
+]
