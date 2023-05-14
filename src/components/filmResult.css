@@ -1,0 +1,33 @@
+.filmResult {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: start;
+    align-content: start;    
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid #333;
+    border-radius: 10px;
+}
+
+.filmImage {
+    width: 300px;
+    border-radius: 8px;
+}
+
+.title {
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+}
+
+.textField {
+    padding: 10px;
+    margin: 0px 10px;
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: flex-end;
+    height: 100%;
+    align-items: flex-end;
+}

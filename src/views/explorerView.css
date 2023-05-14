@@ -1,0 +1,37 @@
+.searchBar {
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: #AAA;
+    padding: 10px;
+    margin: 10px;
+    background: #111;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;  
+}
+
+.searchBar:hover {
+    border: 1px solid #AAA;
+}
+
+.searchBar:hover::placeholder {
+    color: #AAA;
+}
+
+.searchBar:focusin {
+    border: 1px solid #AAA;
+}
+
+.searchBar:focusin::placeholder {
+    color: #AAA;
+}
+
+.searchBar:focus-visible {
+    border: 1px solid #AAA;
+    outline: none;
+}
+
+.searchBar:focus-visible::placeholder {
+    color: #AAA;
+}
+
