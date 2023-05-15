@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useFetchFilmsByName } from "../hooks/useFetchFilmsByName";
-import { FilmList } from "../components/FilmLIst";
+import { FilmList } from "../components/FilmList";
 import { SearchBar } from "../components/SearchBar";
 
 export const ExplorerView = () => {
