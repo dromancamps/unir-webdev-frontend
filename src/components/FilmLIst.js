@@ -14,7 +14,9 @@ export const FilmList = ({ films }) => {
        );
     }, [films])
 
+    const list = filmsResult.length > 0 ? filmsResult : <p>No movies</p>
+
     return (
-        <div className="filmList">{filmsResult}</div>
+        <div className="filmList">{list}</div>
     );
 };

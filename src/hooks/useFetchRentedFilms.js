@@ -9,7 +9,7 @@ export const useFetchRentedFilms = () => {
         const fetchFilmsData = async () => {
 
             const localItems = localStorage.getItem("rentedFilms");
-            const rentedIds = localItems !== null ? localItems.split(',').map(Number) : [];
+            const rentedIds = localItems? localItems.split(',').map(Number) : [];
     
             const filmsData =  await fetch("/films.json").then((response) => response.json());
                         

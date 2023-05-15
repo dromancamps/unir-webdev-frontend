@@ -7,7 +7,7 @@ export const useUpdateRentedFilms = (rented, id) => {
         useEffect(() => {
 
             const localItems = localStorage.getItem("rentedFilms");
-            const localRented = localItems !== null ? localItems.split(',') : [];
+            const localRented = localItems? localItems.split(',') : [];
             
             if (rented === true) {
                 localRented.push(id);
