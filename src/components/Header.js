@@ -1,8 +1,8 @@
 import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import Logo from "../assets/nesflis.png";
+import Logo from "../assets/notnetflix.png";
 import "./header.css"
-import "./button.css"
+import { Buttons } from "./Buttons";
 
 
 export const Header = () => {
@@ -10,20 +10,18 @@ export const Header = () => {
     const navigate = useNavigate();
     const location = useLocation();
 
-    const buttonDest = location.pathname === "/" ? {
+    const buttonDest = location.pathname === "/" ? [{
         label: "My movies",
-        path: "/rented"
-    } : {
+        func: () => navigate("/rented")
+    }] : [{
         label: "Browse movies",
-        path: "/"
-    };
+        func: () => navigate("/")
+    }];
 
     return (
         <div className="header">
             <img src={Logo} alt="Nesflis Logo" className="logo"/>
-            <button className="button" onClick={() => navigate(buttonDest.path)} >
-            {buttonDest.label}
-            </button>
+            <Buttons actions={buttonDest} />
         </div>
     );
 };

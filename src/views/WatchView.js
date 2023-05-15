@@ -11,7 +11,8 @@ export const WatchView = () => {
     return (
         <div>
             <h1>{film.title}</h1>
-            <iframe width="800" height="450" src={film.url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen />
+            <iframe width="800" height="450" src={film.url} title="YouTube video player" frameBorder="0" allowFullScreen
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" />
         </div>
     );
 };
